@@ -1,0 +1,13 @@
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\bin\Debug\MaxSumSequence.exe.config
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\bin\Debug\MaxSumSequence.exe
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\bin\Debug\MaxSumSequence.pdb
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.csprojResolveAssemblyReference.cache
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MainWindow.baml
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MainWindow.g.cs
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\App.g.cs
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence_MarkupCompile.cache
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.g.resources
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.Properties.Resources.resources
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.csproj.GenerateResource.Cache
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.exe
+C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.pdb
