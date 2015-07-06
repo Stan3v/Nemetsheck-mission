@@ -11,3 +11,16 @@ C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug
 C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.csproj.GenerateResource.Cache
 C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.exe
 C:\Users\Stiliyan\Desktop\MaxSumSequence\MaxSumSequence\MaxSumSequence\obj\Debug\MaxSumSequence.pdb
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\bin\Debug\MaxSumSequence.exe.config
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MaxSumSequence.exe
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MaxSumSequence.pdb
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MaxSumSequence.csprojResolveAssemblyReference.cache
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MainWindow.baml
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MainWindow.g.cs
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\App.g.cs
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MaxSumSequence_MarkupCompile.cache
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MaxSumSequence.g.resources
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MaxSumSequence.Properties.Resources.resources
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\obj\Debug\MaxSumSequence.csproj.GenerateResource.Cache
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\bin\Debug\MaxSumSequence.exe
+C:\Users\Stiliyan\Desktop\Nemetsheck-mission-master\Nemetsheck-mission-master\MaxSumSequence\bin\Debug\MaxSumSequence.pdb
